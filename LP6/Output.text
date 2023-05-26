@@ -1,4 +1,7 @@
 
+Run BullyAlgorithm
+
+
 Node 3 sends Election message.
 Node 4 received Election message from Node 3.
 Node 4 sends OK message to Node 3.
