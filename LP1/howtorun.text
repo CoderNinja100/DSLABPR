@@ -1,0 +1,11 @@
+
+PS C:\Users\ IdeaProjects\DS_Assignment1> cd src
+PS C:\Users\ IdeaProjects\DS_Assignment1\src> javac Factorial.java FactorialImpl.java FactorialClient.java 
+FactorialServer.java
+PS C:\Users\IdeaProjects\DS_Assignment1\src> rmic FactorialImpl
+Warning: generation and use of skeletons and static stubs for JRMP
+is deprecated. Skeletons are unnecessary, and static stubs have
+been superseded by dynamically generated stubs. Users are
+encouraged to migrate away from using rmic to generate skeletons and static
+stubs. See the documentation for java.rmi.server.UnicastRemoteObject.
+
