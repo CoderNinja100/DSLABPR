@@ -28,3 +28,5 @@ Process 14: Partial Sum = 1179
 Process 15: Partial Sum = 1260
 Process 16: Partial Sum = 885
 Total Sum: 11325
+
+Total sum is the sum of process 0 to 16 i.e. Process0+Process1+Process2+..+process16=11325 and not the sum of first 150 numbers
