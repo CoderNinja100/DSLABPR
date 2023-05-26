@@ -24,7 +24,7 @@ Message received from Client 2: Thankyou client1
 Client1
 
 Connected to server: 127.0.0.1
-Hello, Client 2
+ Hello, Client 2
 Message received: Hello, Client 1
 This is Token Ring Algorithm for client2
 Message received: Thankyou client1
