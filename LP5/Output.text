@@ -1,4 +1,16 @@
 
+
+
+
+Create 2 client.java files viz. Client and Clients 
+Client will behave as client1 and Clients will behave as Client 2
+For Clients public class Clients 
+
+
+First run Mutualserver.java then Client.java and last run Clients.java 
+All 3 in same folder 
+
+
 MutualServer.java
 
 Server started and listening on port 8080
