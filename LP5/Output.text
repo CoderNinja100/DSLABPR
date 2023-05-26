@@ -1,0 +1,26 @@
+
+MutualServer.java
+
+Server started and listening on port 8080
+Client 1 connected: 127.0.0.1
+Client 2 connected: 127.0.0.1
+Message received from Client 1: Hello, Client 2
+Message received from Client 2: Hello, Client 1
+Message received from Client 1: This is Token Ring Algorithm for client2
+Message received from Client 2: Thankyou client1
+
+Client1
+
+Connected to server: 127.0.0.1
+Hello, Client 2
+Message received: Hello, Client 1
+This is Token Ring Algorithm for client2
+Message received: Thankyou client1
+
+Client2
+
+Connected to server: 127.0.0.1
+Message received: Hello, Client 2
+Hello, Client 1
+Message received: This is Token Ring Algorithm for client2
+Thankyou client1
