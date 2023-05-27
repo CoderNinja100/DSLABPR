@@ -1,4 +1,8 @@
 
+
+
+First execute web-service.py  
+Run code web-service.py
 web-service.py
 
 * Serving Flask app 'web_service2'
@@ -11,6 +15,9 @@ Press CTRL+C to quit
 * Debugger is active!
 * Debugger PIN: 375-964-059
 
+After this execute  distributed_application.py (App 1) bu run code  distributed_application.py (App 1)
+
+on web-service.py terminal:
 127.0.0.1 - - [18/May/2023 15:28:57] "GET /api/hello?app_id=0 HTTP/1.1" 200 -
 127.0.0.1 - - [18/May/2023 15:28:57] "GET /api/hello?app_id=1 HTTP/1.1" 200 -
 127.0.0.1 - - [18/May/2023 15:28:57] "GET /api/hello?app_id=2 HTTP/1.1" 200 -
@@ -23,7 +30,7 @@ Press CTRL+C to quit
 127.0.0.1 - - [18/May/2023 15:29:09] "GET /api/hello?app_id=4 HTTP/1.1" 200 -
 
 
-distributed_application.py (App 1)
+on distributed_application.py (App 1) terminal
 
 Response from App ID 0: Hello, World!
 Response from App ID 1: Hello, World!
